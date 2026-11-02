@@ -30,5 +30,5 @@ CUDA >= 11.0 (optional, for GPU acceleration)
 ** The original link is follows:
 https://github.com/xiangHQ/WaveUNet.git
 # Please reference the paper.
-"WaveUNet: An efficient deep network based on discrete wavelet transform and attention mechanism for InSAR phase unwrapping"
+"Wenfei Mao, Hongquan Xiang, Xue Cheng, Guoxiang Liu, Xiaowen Wang, Rui Zhang, Oriol Monserrat, Michele Crosetto. WaveUNet: An efficient deep network based on discrete wavelet transform and attention mechanism for InSAR phase unwrapping, ISPRS Journal of Photogrammetry and Remote Sensing, Volume 239, 2026, Pages 653-669, ISSN 0924-2716, https://doi.org/10.1016/j.isprsjprs.2026.06.025."
 (https://www.sciencedirect.com/science/article/abs/pii/S092427162600331X)
