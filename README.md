@@ -6,12 +6,14 @@ Flowchart of this study
 *Figure 1: Overall architecture of the proposed WaveUNet framework*
 
 ✨ Key Features
+
 Wavelet-based Multi-scale Analysis: Leverages DWT to capture both global and local phase patterns
 Attention Mechanism: Enhances feature representation in challenging regions (steep slopes, discontinuities)
 End-to-End Learning: Direct mapping from wrapped to unwrapped phase
 Efficient Architecture: Balanced trade-off between accuracy and computational cost
 
 🏗️ Model Architecture
+
 The WaveUNet consists of three main components:
 Encoder: Hierarchical feature extraction with DWT-based downsampling
 Bottleneck: Attention-augmented feature transformation
@@ -27,3 +29,6 @@ CUDA >= 11.0 (optional, for GPU acceleration)
 
 ** The original link is follows:
 https://github.com/xiangHQ/WaveUNet.git
+# Please reference the paper: WaveUNet
+An efficient deep network based on discrete wavelet transform and attention mechanism for InSAR phase unwrapping
+(https://www.sciencedirect.com/science/article/abs/pii/S092427162600331X)
